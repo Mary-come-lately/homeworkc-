@@ -11,6 +11,7 @@ void task1()
 	cout << "     or not" << endl;
 	cout << " \t    to be!" << endl;
 	cout << "     \\Shakespeare\\ " << endl;
+	cout << " bla bla la" << endl;
 	system("pause");
 }
 
